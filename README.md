@@ -8,9 +8,7 @@
 <p align="center">Portfolio Psd To HTML SCSS = https://portfoliocvsite.netlify.app/</p>
 <p align="center">Whatsapp Clone = https://chatclonewp.netlify.app</p>
 <p align="center">E-Book Landing = https://ebookpsdtoscss.netlify.app/</p>
-<p align="center">Coming Soon.</p>
-<p align="center">Coming Soon</p>
-<p align="center">Comin Sooooon</p>
+
 
 
 
