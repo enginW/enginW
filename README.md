@@ -3,6 +3,7 @@
 <h3 align="center">A web developer from Izmit, Turkey </h3>
 
 <p align="center">E-Commerce = https://clayecommerce.netlify.app/</p>
+<p align="center">Tailwind Movie = https://spimovie.netlify.app/</p>
 <p align="center">Pandemic Blog, News (Responsive) = https://pandemicpsdtoscss.netlify.app/</p>
 <p align="center">Bank Clone = https://xbanklanding.netlify.app/</p>
 <p align="center">Portfolio Psd To HTML SCSS = https://portfoliocvsite.netlify.app/</p>
